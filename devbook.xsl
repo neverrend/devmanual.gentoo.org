@@ -582,6 +582,7 @@
                                 <script src="https://assets.gentoo.org/tyrian/jquery.min.js"></script>
                                 <script src="https://assets.gentoo.org/tyrian/bootstrap.min.js"></script>
                                 <script src="https://unpkg.com/lunr/lunr.js"></script>
+                                <script src="search.js"></script>
                             </body>
                         </html>
                     </xsl:template>
